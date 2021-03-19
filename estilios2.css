@@ -1,0 +1,149 @@
+div{
+
+
+}
+.papa{
+
+position: absolute;
+top: 90px;
+left: 250px;
+height:285px;
+width:880px;
+background: url(total.jpg);
+background-size: cover;
+
+}
+.uno{
+position: absolute;
+top: 10px;
+left: 15px;
+height:270px;
+width:860px;
+background:rgba(43,54,7,0);
+border: solid;
+}
+@font-face{
+font-family:hola;
+
+}
+.dos{
+position: absolute;
+top: 20px;
+left: 50px;
+height:250px;
+width:800px;
+background: blue;
+color: black;
+font-size: 80px;
+background:rgba(100,74,3,0.3);
+border: solid;
+text-align:center;
+align-content:center;
+font-family: hola;
+
+
+}
+.tres{
+position: absolute;
+top: 400px;
+left: 50px;
+height:700px;
+width:600px;
+background: red;
+color: black;
+}
+.hijo{
+position: absolute;
+top: 10px;
+left: 160px;
+height:70px;
+width:300px;
+background: blue;
+color: black;
+font-size: 70px;
+background:rgba(100,74,3,0);
+text-align:center;
+align-content:center;
+font-family: hola;
+}
+@font-face{
+font-family:letra;
+
+}
+.hijo1{
+position: absolute;
+top: 110px;
+left: 160px;
+height:300px;
+width:300px;
+background: black;
+color: black;
+font-size: 30px;
+background:rgba(1,74,3,0.5);
+border: solid;
+text-align:center;
+align-content:center;
+font-family: letra;
+}
+.cuatro{
+position: absolute;
+top: 400px;
+left: 700px;
+height:700px;
+width:600px;
+background: red;
+color: black;
+}
+.foto1{
+position: absolute;
+top: 40px;
+left: 60px;
+width: 200px;
+height:200px;
+background: url(dbs.jpg);
+background-size: cover;
+
+
+
+}
+.foto2{
+position: absolute;
+top: 40px;
+left: 350px;
+width: 180px;
+height:200px;
+background: url(descarga.jpg);
+background-size: cover;
+
+
+	
+}
+
+.foto4{
+position: absolute;
+top: 480px;
+left: 80px;
+width: 200px;
+height:200px;
+background: url(aot.jpg);
+background-size: cover;
+
+
+	
+}
+.texto{
+position: absolute;
+top: 280px;
+left: 160px;
+height:200px;
+width:300px;
+background: black;
+color: black;
+font-size: 50px;
+background:rgba(100,74,3,0.4);
+text-align:center;
+align-content:center;
+font-family: letra;
+}
+
+
